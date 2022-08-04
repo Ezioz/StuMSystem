@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>csu.jpg</file>
+    </qresource>
+</RCC>

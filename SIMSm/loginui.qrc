@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/jw">
+        <file>jiaowu.png</file>
+        <file>jiao.png</file>
+        <file>search.jpg</file>
+        <file>uidesign/main_person.png</file>
+        <file>uidesign/main_main.png</file>
+        <file>uidesign/filede.png</file>
+        <file>uidesign/serh.png</file>
+        <file>uidesign/add.png</file>
+        <file>uidesign/delete.png</file>
+        <file>uidesign/caculate.png</file>
+        <file>uidesign/8687158_ic_fluent_cursor_regular_icon.png</file>
+        <file>uidesign/8686915_ic_fluent_clipboard_checkmark_regular_icon.png</file>
+        <file>uidesign/8688099_ic_fluent_whiteboard_regular_icon.png</file>
+    </qresource>
+</RCC>
